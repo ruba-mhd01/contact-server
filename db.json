@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Swathy Raj . V",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKb5B_aLbXOpeHLmqaP8jOqMOfwVal7TXQsQ&s",
+      "gender": "Female",
+      "birthday": "2001-02-06",
+      "mobile": "9856430213",
+      "email": "swathy.23@gmail.com",
+      "address": "Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore-560016",
+      "id": 7
+    },
+    {
+      "name": "Imran Ali. VM",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSA1zygA3rubv-VK0DrVcQ02Po79kJhXo_A&s",
+      "gender": "Male",
+      "birthday": "1999-07-04",
+      "mobile": "8678395463",
+      "email": "Imranali#0@gmail.com",
+      "address": "Nakoor Village,Kanbail Post,Suntikoppa,Karnataka,571237,India",
+      "id": 8
+    },
+    {
+      "name": "Jacob Mathew ",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4140/4140037.png",
+      "gender": "Male",
+      "birthday": "1992-11-23",
+      "mobile": "6743582901",
+      "email": "mathew1@gmail.com",
+      "address": "P P Jose Rd,Changanassery,Kerala,686101",
+      "id": 9
+    }
+  ]
+}
